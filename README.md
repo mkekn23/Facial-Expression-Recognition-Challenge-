@@ -359,3 +359,4 @@ Neutral (Recall: 0.67) vs Sad (Recall: 0.46): ნეიტრალურ და
 
 
 ### Wandb link: https://wandb.ai/mkekn23-free-university-of-tbilisi-/Facial_Expression_FER2013/table?nw=nwusermkekn23
+### Wandb report: https://wandb.ai/mkekn23-free-university-of-tbilisi-/Facial_Expression_FER2013/reports/Facial-Expression-Recognition-FER2013---VmlldzoxNzI0MzQ4Mg
